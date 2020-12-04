@@ -1,0 +1,14 @@
+#banner{
+    background-image: url(../images/banner.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 300px;
+    margin-top: 3.5rem;
+}
+.title{
+    color: #F26430;
+    font-weight: bold;
+}
+.card-title{
+    color: #F26430;
+}
